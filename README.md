@@ -23,5 +23,5 @@ I’m currently working on a [search engine](CMPN306), and a [compiler](CMPN403)
 
 ## Connect with me
 
-[<img align="left" alt="Ziyad Sameh | LinkedIn" width="40px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/ziyadss/)
-[<img align="left" alt="Ziyad Sameh | Email" width="40px" src="https://static2.sharepointonline.com/files/fabric-cdn-prod_20200430.002/assets/brand-icons/product/svg/word_48x1.svg" />](mailto:ziyad.ss@hotmail.com)
+[<img alt="Ziyad Sameh | LinkedIn" width="40px" height="40px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/ziyadss/)
+[<img alt="Ziyad Sameh | Email" width="40px" height="40px" src="https://static2.sharepointonline.com/files/fabric-cdn-prod_20200430.002/assets/brand-icons/product/svg/word_48x1.svg" />](mailto:ziyad.ss@hotmail.com)

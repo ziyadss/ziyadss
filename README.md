@@ -3,7 +3,7 @@
 ## About me
 
 I'm Ziyad Sameh, a Computer Engineering student in Cairo University, set for a June 2023 graduation.  
-I’m currently working on a [search engine](), and a [compiler]() (links to be added).
+My latest projects included a [search engine](https://github.com/ziyadss/CMPN306-SearchEngine), and a [compiler](https://github.com/ziyadss/CMPN403-Compiler).
 
 ## Stuff I worked on
 

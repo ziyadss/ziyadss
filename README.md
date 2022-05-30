@@ -3,7 +3,7 @@
 ## About me
 
 I'm Ziyad Sameh, a Computer Engineering student in Cairo University, set for a June 2023 graduation.  
-My latest projects included a [search engine](https://github.com/ziyadss/CMPN306-SearchEngine), and a [compiler](https://github.com/ziyadss/CMPN403-Compiler).
+My latest projects included a [search engine](https://github.com/ziyadss/CMPN306-SearchEngine), and a [compiler](https://github.com/ziyadss/Mini-C-Compiler).
 
 ## Stuff I worked on
 
@@ -12,7 +12,7 @@ My latest projects included a [search engine](https://github.com/ziyadss/CMPN306
 - A simple [16 bit VM](https://github.com/ziyadss/Virtual-Machine) in C.
 - An implementation of the [Hamming error correction code](https://github.com/ziyadss/CMPN405-DataLinkLayer/blob/main/src/hamming.h).
 - Simulating an operating system's [process scheduling](https://github.com/ziyadss/CMPN303-Scheduler) - including memory allocations.
-<!-- - A [compiler](https://github.com/ziyadss/CMPN403-Compiler) for a subset of the C language. -->
+- A [compiler](https://github.com/ziyadss/Mini-C-Compiler) for a subset of the C language.
 
 ## Languages and Tools
 

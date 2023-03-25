@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Ziyad Sameh, a SWE intern at Microsoft and a Computer Engineering student in Cairo University, set for a June 2023 graduation.  
+I'm Ziyad Sameh, a Computer Engineering student in Cairo University, set for a June 2023 graduation.  
 My latest projects included a [search engine](https://github.com/ziyadss/CMPN306-SearchEngine), and a [compiler](https://github.com/ziyadss/Mini-C-Compiler).
 
 ## Stuff I worked on

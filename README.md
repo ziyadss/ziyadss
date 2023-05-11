@@ -10,7 +10,7 @@ My recent projects include a [.NET client for the Spotify Web APIs](https://gith
 
 - A [compiler](https://github.com/ziyadss/Mini-C-Compiler) for a subset of the C language.
 - A [chess project](https://github.com/ziyadss/chess-engine) where games are playable - with plans to build a small chess engine on top.
-- A .NET client for the Spotify Web APIs](https://github.com/ziyadss/SpotifyNet).
+- A [.NET client for the Spotify Web APIs](https://github.com/ziyadss/SpotifyNet).
 - An implementation of the [Hamming error correction code](https://github.com/ziyadss/CMPN405-DataLinkLayer/blob/main/src/hamming.h).
 - [FARBEN](https://github.com/ziyadss/CMPN205-GraphicsGame), a simple 3D game, including rendering models, and implementing collision & game logic.
 - Simulating an operating system's [process scheduling](https://github.com/ziyadss/CMPN303-Scheduler) - including memory allocations.

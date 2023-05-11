@@ -3,18 +3,22 @@
 ## About me
 
 I'm Ziyad Sameh, a Computer Engineering student in Cairo University, set for a June 2023 graduation.  
-My latest projects included a [search engine](https://github.com/ziyadss/CMPN306-SearchEngine), and a [compiler](https://github.com/ziyadss/Mini-C-Compiler).
+Most recently, I interned at Microsoft, where I worked under the Azure Cognitive Services Language Authoring team.  
+My recent projects include a [.NET client for the Spotify Web APIs](https://github.com/ziyadss/SpotifyNet), and a [compiler for a subset of C](https://github.com/ziyadss/Mini-C-Compiler).
 
 ## Stuff I worked on
 
+- A [compiler](https://github.com/ziyadss/Mini-C-Compiler) for a subset of the C language.
+- A [chess project](https://github.com/ziyadss/chess-engine) where games are playable - with plans to build a small chess engine on top.
+- A .NET client for the Spotify Web APIs](https://github.com/ziyadss/SpotifyNet).
+- An implementation of the [Hamming error correction code](https://github.com/ziyadss/CMPN405-DataLinkLayer/blob/main/src/hamming.h).
 - [FARBEN](https://github.com/ziyadss/CMPN205-GraphicsGame), a simple 3D game, including rendering models, and implementing collision & game logic.
+- Simulating an operating system's [process scheduling](https://github.com/ziyadss/CMPN303-Scheduler) - including memory allocations.
 - A 5-stage [pipelined Harvard processor](https://github.com/ziyadss/CMPN301-PipelinedHarvardProcessor).
 - A simple [16 bit VM](https://github.com/ziyadss/Virtual-Machine) in C.
-- An implementation of the [Hamming error correction code](https://github.com/ziyadss/CMPN405-DataLinkLayer/blob/main/src/hamming.h).
-- Simulating an operating system's [process scheduling](https://github.com/ziyadss/CMPN303-Scheduler) - including memory allocations.
-- A [compiler](https://github.com/ziyadss/Mini-C-Compiler) for a subset of the C language.
 
 ## Languages and Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>

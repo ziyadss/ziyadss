@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Ziyad Sameh, a software engineer working at Microsoft, having previously interned with them under the Azure Cognitive Services Language team.  
+I'm Ziyad Sameh, a software engineer working at Microsoft under the Microsoft AI organization, having previously interned with them under the Azure Cognitive Services Language team.  
 I studied Computer Engineering at Cairo University.  
 My recent projects include a [.NET client for the Spotify Web APIs](https://github.com/ziyadss/SpotifyNet), and a [compiler for a subset of C](https://github.com/ziyadss/Mini-C-Compiler).
 
